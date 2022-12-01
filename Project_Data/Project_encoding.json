@@ -1,0 +1,1 @@
+{"sex": {"male": 1, "female": 0}, "Target": {"0": "Heart Disease Not Observed", "1": "Heart Disease Observed"}, "columns": ["age", "sex", "cp", "trestbps", "chol", "fbs", "restecg", "thalach", "exang", "oldpeak", "slope", "ca", "thal"]}
